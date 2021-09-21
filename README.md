@@ -1,8 +1,8 @@
 # Time and clicks counter
 
-Simple app which allows to measure time and amount of clicks.
+Simple application which allows you to measure time in different ways and count your clicks.
 
-## How to install
+## How to use
 
 1. Clone or download this repo.
 2. In the project folder run:
@@ -10,4 +10,5 @@ Simple app which allows to measure time and amount of clicks.
     ### ```npm start```
 
 
+See project: [Live app](https://mariuszx8.github.io/Counter/)
 This project was built using **Create-React-App**  
