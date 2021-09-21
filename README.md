@@ -10,5 +10,5 @@ Simple application which allows you to measure time in different ways and count 
     ### ```npm start```
 
 
-### Live app: [GitHub Pages](https://mariuszx8.github.io/Counter/)\
+### Live app: [GitHub Pages](https://mariuszx8.github.io/Counter/)
 This project was built using **Create-React-App**  
