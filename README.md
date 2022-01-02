@@ -1,6 +1,6 @@
-# Time and clicks counter
+# Time counter
 
-Simple application which allows you to measure time in different ways and count your clicks.
+Simple application which allows you to measure time in different ways.
 
 ## How to use
 
@@ -10,5 +10,5 @@ Simple application which allows you to measure time in different ways and count 
     ### ```npm start```
 
 ### Work in progress
-<!--- ### Live app: [GitHub Pages](https://mariuszx8.github.io/Counter/)--->
+### Live app: [GitHub Pages](https://mariuszx8.github.io/Counter/)
 This project was built using **Create-React-App**  
